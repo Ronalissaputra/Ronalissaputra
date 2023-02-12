@@ -1,6 +1,5 @@
 
-## my Name Is Ronalis
+## My Name Is Ronalis
 #Front End Developer
-#Html, Css, Js
-# React Js || TailwindCss
+#Html, Css, Js & React js - TailwindCss
 
