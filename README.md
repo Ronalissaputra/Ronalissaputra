@@ -1,7 +1,7 @@
 
-## hi,I'm Ronalis
-- FrontEnd Developer
-- Html js css, ReactJs & React-Native, Tailwindcss
-- Universitas Megarezky - Makassar City
+### Hi, i'm Ronalis
+- Frontend Developer
+- Html Css Js, ReactJs & React-Native, Tailwindcss, ExpressJs
+- Universitas Megarezky Makassar
 - Buton - Sulawesi Tenggara
 
