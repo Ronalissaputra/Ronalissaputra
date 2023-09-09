@@ -1,5 +1,5 @@
 
-### Hi, i'm Ronalis
+### Hello, my name is Ronalis👋
 - Frontend Developer
 - Html Css Js, ReactJs & React-Native, Tailwindcss, ExpressJs
 - Universitas Megarezky Makassar
