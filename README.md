@@ -1,7 +1,5 @@
+# Hello, my name is Ronalis👋
+## Buton Utara - Sulawesi Tenggara
 
-### Hello, my name is Ronalis👋
-
-
-# Buton - Sulawesi Tenggara
-> Universitas Megarezky Makassar
+> Learning to code programming is one of my hobbies
 
